@@ -54,8 +54,6 @@ Data capture, organization, and analysis for product selection, competing produc
 ### 🔹 Accurate Commercial Sales Data Service
 Targeted potential customer data, industry insights, and market intelligence to help improve conversion efficiency and sales promotion.
 
-### 🔹 Data-Driven Promotion Support
-We assist with product packaging, promotion ideas, and sales narratives, ensuring our customers can truly leverage the data in real-world business scenarios.
 
 ---
 
