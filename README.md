@@ -44,7 +44,6 @@ We provide a complete data schema tailored to your specific business needs. **If
 
 ---
 
----
 
 ## 🛠️ Quick Integration Guide (Shopee API)
 
