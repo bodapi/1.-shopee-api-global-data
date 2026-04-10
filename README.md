@@ -44,6 +44,33 @@ We provide a complete data schema tailored to your specific business needs. **If
 
 ---
 
+---
+
+## 🛠️ Quick Integration Guide (Shopee API)
+
+Our Shopee API follows a professional **Asynchronous Task Workflow** to handle high-volume requests while bypassing advanced anti-bot protections.
+
+### 🔄 The 3-Step Integration Workflow:
+
+1. **Submit Task** 📤  
+   Call the [Submit Product Detail](https://bodapi.com/en/apis/shopee-api/submit-product-detail) endpoint to create a crawl task. The system will return a `batch_id`.
+
+2. **Poll Status** 🔍  
+   Use the [Query Product Detail](https://bodapi.com/en/apis/shopee-api/query-product-detail) endpoint with your `batch_id` to check the progress of your task.
+
+3. **Get Data** ✅  
+   Once the task is finished (`code = 0`), retrieve your high-fidelity, structured Shopee data.
+
+---
+
+### 📖 Full Technical References
+* 🌐 [**Shopee API Overview**](https://bodapi.com/en/apis/shopee-api) — Authentication, Base URLs, and Site Codes.
+* 🚀 [**Submit Task Reference**](https://bodapi.com/en/apis/shopee-api/submit-product-detail) — Request headers and cURL examples.
+* 📊 [**Query Result Reference**](https://bodapi.com/en/apis/shopee-api/query-product-detail) — Response schemas and polling logic.
+
+---
+
+
 ## 🎯 Beyond Extraction: Data Solutions for Sales & Growth
 
 We are not simply "crawling data"; we provide **data solutions that directly serve sales and growth**. Our services go beyond raw extraction to offer actionable intelligence:
