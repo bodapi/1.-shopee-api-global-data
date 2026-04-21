@@ -54,7 +54,11 @@ By leveraging professional **Shopee API** extraction services, companies can foc
 
 If you're looking for enterprise-grade **Shopee scraping services** or **Shopee product data** without the technical headache, we are here to help.
 
-* **Official Website:** [https://bodapi.com](https://bodapi.com)
-* **Email:** [support@bodapi.com]
+### 📞 Connect with Our Data Operations Team
+* **Official Website:** [bodapi.com](https://bodapi.com/en)
+* **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
+* **WeChat (微信):** daniellehallasgo
+* **Email:** support@bodapi.com
 
-*Contact us today for the latest online real-time API documentation and customized data services.*
+---
+*Empowering Global Commerce through Data Intelligence | 2026*
