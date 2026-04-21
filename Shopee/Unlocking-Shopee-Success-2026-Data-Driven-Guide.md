@@ -56,7 +56,11 @@ In 2026, successful product selection and market navigation on Shopee are inextr
 
 Explore how our **Shopee Global Commerce Data API** can provide the market intelligence you need to dominate your niche.
 
-* **Official Website:** [https://bodapi.com](https://bodapi.com)
-* **Email:** [support@bodapi.com]
+### 📞 Connect with Our Data Operations Team
+* **Official Website:** [bodapi.com](https://bodapi.com/en)
+* **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
+* **WeChat (微信):** daniellehallasgo
+* **Email:** support@bodapi.com
 
-*Status: Empowering Data-Driven Decisions for 2026 🚀*
+---
+*Empowering Global Commerce through Data Intelligence | 2026*
