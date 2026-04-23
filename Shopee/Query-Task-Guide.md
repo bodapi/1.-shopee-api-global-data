@@ -25,4 +25,11 @@ For the complete list of **HTTP Status Codes, Response Fields (JSON Structure), 
 👉 [**Technical Docs: Query Product Detail Task Result**](https://bodapi.com/en/apis/shopee-api/query-product-detail)
 
 ---
-*Status: Fully Operational for 2026*
+### 📞 Business Inquiry (Bodapi Technical Team)
+
+* **Official Website:** [https://bodapi.com](https://bodapi.com)
+* **WeChat (微信):** daniellehallasgo
+* **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
+* **Email:** support@bodapi.com
+
+*Maintained by Bodapi - 2026 Technical Operations Team*
