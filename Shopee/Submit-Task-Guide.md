@@ -23,4 +23,11 @@ To view the complete API reference, including **Request Headers, Query Parameter
 👉 [**Technical Docs: Submit Product Detail Task**](https://bodapi.com/en/apis/shopee-api/submit-product-detail)
 
 ---
-*Status: Fully Operational for 2026*
+### 📞 Business Inquiry (Bodapi Technical Team)
+
+* **Official Website:** [https://bodapi.com](https://bodapi.com)
+* **WeChat (微信):** daniellehallasgo
+* **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
+* **Email:** support@bodapi.com
+
+*Maintained by Bodapi - 2026 Technical Operations Team*
