@@ -50,12 +50,3 @@ We provide specialized **Data Scraping** services across these dimensions:
     }
   }
 }
-
-### 📞 Business Inquiry (Bodapi Technical Team)
-
-* **Official Website:** [https://bodapi.com](https://bodapi.com)
-* **WeChat (微信):** daniellehallasgo
-* **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
-* **Email:** support@bodapi.com
-
-*Maintained by Bodapi - 2026 Technical Operations Team*
