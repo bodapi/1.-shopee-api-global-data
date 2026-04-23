@@ -21,3 +21,11 @@ Explore the full potential of our Shopee Product Data API through our official t
 👉 **[Access Shopee Product Data API Reference](https://bodapi.com/en/apis/shopee-api)**
 
 ---
+### 📞 Business Inquiry (Bodapi Technical Team)
+
+* **Official Website:** [https://bodapi.com](https://bodapi.com)
+* **WeChat (微信):** daniellehallasgo
+* **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
+* **Email:** support@bodapi.com
+
+*Maintained by Bodapi - 2026 Technical Operations Team*
