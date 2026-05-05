@@ -112,3 +112,9 @@
 标准化您的数据获取流程，在全球市场中赢得竞争优势。
 
 **当前状态：** 全面运行中并已更新至 2026 年 🚀
+
+For API access, documentation, and custom data solutions, please visit our official website:
+* Official Website: https://bodapi.com
+* Telegram | @bodapi_dan
+* WeChat (微信) | `daniellehallasgo`
+* Email: support@bodapi.com
